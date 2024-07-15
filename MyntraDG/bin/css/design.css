@@ -1,0 +1,15 @@
+.root {
+    -fx-background-image: url('/game/background.png');
+    -fx-background-size: cover;
+}
+
+.label {
+    -fx-font-size: 50px;
+}
+
+.button {
+    -fx-background-color: #ff0015; /* Example button style */
+    -fx-text-fill: white;
+}
+
+/* Additional styling for other components as needed */
