@@ -1,0 +1,1 @@
+The src folder contains the same folders & files as the bin folder
