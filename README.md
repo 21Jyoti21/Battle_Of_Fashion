@@ -29,3 +29,34 @@ Community Building: The voting system and regional contests foster a sense of co
 
 
 We hope you enjoy participating in the Fashion Battle on Myntra!
+
+
+
+*********************************************************************************
+Here are the links of the clothes/accessories used :
+TOPS:
+https://www.myntra.com/tops/juneberry/juneberry-print-cotton-crop-top/30090988/buy
+https://www.myntra.com/tops/nud/nud-top/30114264/buy
+https://www.myntra.com/tops/baesd/baesd-ribbed-tank-crop-top/24115434/buy
+https://www.myntra.com/tops/le+bourgeois/le-bourgeois-black-crop-top-with-scoop-neck/12252440/buy
+
+
+SHORTS:
+https://www.myntra.com/shorts/oxolloxo/oxolloxo-women-grey-loose-fit-yoga-shorts/20981438/buy
+https://www.myntra.com/skirts/kibo/kibo-women-floral-printed-skorts/24722792/buy
+https://www.myntra.com/skirts/trendyol/trendyol-women-floral-printed-gathered-detail-mini-skorts/28556594/buy
+
+
+SKIRTS:
+https://www.myntra.com/skirts/minos/minos-printed-maxi-skirts/29252852/buy
+https://www.myntra.com/skirts/trendyol/trendyol-women-red--white-abstract-printed-a-line-midi-skirt/17814252/buy
+
+
+DRESSES:
+https://www.myntra.com/dresses/rajoria+instyle/rajoria-instyle-women-white--green-tropical-georgette-ethnic-kaftan-dress/19236534/buy
+https://www.myntra.com/dresses/rajoria+instyle/rajoria-instyle-blue--white-ethnic-motifs-georgette-ethnic-kaftan-dress/19236494/buy
+
+SHOES:
+https://www.myntra.com/sandals/carlton+london+sports/carlton-london-sports-women-embellished-comfort-sandals/22865244/buy
+https://www.myntra.com/sports-sandals/carlton+london+sports/carlton-london-sports-women-textured-sports-sandals/26215172/buy
+https://www.myntra.com/casual-shoes/sneakers+villa/sneakers-villa-women-round-toe-comfort-insole-canvas-sneakers/29985815/buy 
