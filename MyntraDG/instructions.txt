@@ -5,4 +5,9 @@ Downloads -> Java-> //all files from https://gluonhq.com/products/javafx/
           -> game-Copy.bat
           -> game.jar
 then run the bat file and you can play the project !
-enjoy
+
+other way is to download all the required files of Java: JDK22,JRE 8, javafx-sdk-22.0.1 [copy this it in Java folder and save it also in the folder where jar file is there] and setup the installations properly then run in terminal(vs code):
+java --module-path Java\javafx-sdk-22.0.1\lib --add-modules javafx.controls,javafx.fxml -jar game.jar
+
+
+enjoy!!
