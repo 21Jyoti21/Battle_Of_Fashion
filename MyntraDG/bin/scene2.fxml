@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="651.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SceneController">
+   <children>
+      <ImageView fitHeight="460.0" fitWidth="651.0">
+         <image>
+            <Image url="/game/7.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="261.0" layoutY="14.0" text="Vote">
+         <font>
+            <Font size="56.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="200.0" fitWidth="68.0" layoutX="47.0" layoutY="101.0">
+         <image>
+            <Image url="/game/6.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="69.0" layoutX="284.0" layoutY="101.0">
+         <image>
+            <Image url="/game/2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="70.0" layoutX="163.0" layoutY="101.0">
+         <image>
+            <Image url="/game/3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="58.0" layoutX="399.0" layoutY="101.0">
+         <image>
+            <Image url="/game/4.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="200.0" fitWidth="65.0" layoutX="517.0" layoutY="101.0">
+         <image>
+            <Image url="/game/5.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="172.0" layoutY="337.0" mnemonicParsing="false" stylesheets="@css/design.css" text="Vote" />
+      <Button layoutX="293.0" layoutY="337.0" mnemonicParsing="false" stylesheets="@css/design.css" text="Vote" />
+      <Button layoutX="402.0" layoutY="337.0" mnemonicParsing="false" stylesheets="@css/design.css" text="Vote" />
+      <Button layoutX="524.0" layoutY="337.0" mnemonicParsing="false" stylesheets="@css/design.css" text="Vote" />
+      <Button layoutX="55.0" layoutY="337.0" mnemonicParsing="false" stylesheets="@css/design.css" text="Vote" />
+      <!-- <ImageView fx:id="topImageView" fitHeight="440.0" fitWidth="210.0" layoutX="232.0" layoutY="24.0" />
+      <ImageView fx:id="skirtImageView" fitHeight="346.0" fitWidth="270.0" layoutX="202.0" layoutY="79.0" />
+      <ImageView fx:id="shortsImageView" fitHeight="349.0" fitWidth="253.0" layoutX="210.0" layoutY="70.0" />  
+      <ImageView fx:id="topaImageView" fitHeight="349.0" fitWidth="229.0" layoutX="224.0" layoutY="48.0" />  
+      <ImageView fx:id="shoesImageView" fitHeight="349.0" fitWidth="253.0" layoutX="212.0" layoutY="151.0" /> -->
+   </children>
+</AnchorPane>
