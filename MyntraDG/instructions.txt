@@ -1,0 +1,8 @@
+For directly running our project just download the game-Copy.bat file , game.jar and you also need to install javafx-sdk-22.0.1 
+from https://gluonhq.com/products/javafx/ , download javafx-sdk-22.0.1 and save it in "Java" folder of your downloads
+so the files should look like:
+Downloads -> Java-> //all files from https://gluonhq.com/products/javafx/
+          -> game-Copy.bat
+          -> game.jar
+then run the bat file and you can play the project !
+enjoy
